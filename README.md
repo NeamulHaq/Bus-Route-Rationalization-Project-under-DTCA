@@ -133,8 +133,7 @@ Peak-hour analysis
 Travel/dwell-time analysis
 Integrated route-stop dashboard
 Author
-
-[Your Name]
+A. T. M Neamul
 
 License
 
