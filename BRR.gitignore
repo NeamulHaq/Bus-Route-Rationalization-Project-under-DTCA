@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Anaconda
+*.conda
+
+# Large/raw datasets
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Local/private data
+data/raw/
+data/private/
+
+# Generated files
+outputs/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environments
+.env
